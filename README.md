@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey there
 
-<!--
-**nquu/nquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm nqu aka ayoub — a student who's constantly looking for challenges in the world of development, malware, and data analysis.
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+student. reverse engineering enthusiast. systems-level stuff & weird internals.  
+sometimes i write useful things, sometimes i just mess around.
+
+## skills
+
+- starter in x86 / x64 assembly  
+- familiar with C# and getting into C++  
+- beginner in reverse engineering (IDA, x64dbg)
+
+## familiar with
+
+- game hacking (external/internal, anticheats)  
+- disassemblers, debuggers, hexdumps  
+- windows api, manual mapping, shellcode  
+- basic malware analysis & binary inspection, game hacking in general.  
