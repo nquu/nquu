@@ -1,6 +1,6 @@
 # hey there
 
-i'm nqu aka ayoub — a student who's constantly looking for challenges in the world of development, malware, and data analysis.
+i'm nqu — a current student who's constantly looking for challenges in the world of development, malware, and data analysis.
 
 ## about me
 
