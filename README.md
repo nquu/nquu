@@ -14,7 +14,7 @@ i'm nqu — c# / .net developer, reverse engineering enthusiast.
 - starter in x86 / x64 assembly
 - beginner in reverse engineering (IDA, x64dbg)
 - familiar with disassemblers, debuggers, hexdumps
-- windows api, manual mapping, shellcode
+- windows internals, windows api, binary analysis
 - basic malware analysis & binary inspection.
 
 ## find me
